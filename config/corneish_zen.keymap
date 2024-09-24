@@ -33,7 +33,7 @@
             label = "TD1";
             #binding-cells = <0>;
             bindings = <&kp TAB>, <&kp ESC>;
-        }
+        };
     };
 
     keymap {
